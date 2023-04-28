@@ -1,3 +1,4 @@
+KernelBuildDate="$(date +'%d%m%y')"
 Changelog="changelog_${KernelBuildDate}.txt"
 for i in $(seq 6);
 do
